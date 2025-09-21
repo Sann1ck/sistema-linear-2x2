@@ -5,7 +5,7 @@ Pequeno programa em Python que resolve sistemas 2x2 usando o método de Cramer.
 ## Como usar
 1. Execute:
    ```bash
-   python main.py
+   python sistema2x2.py
    ```
 2. Informe duas linhas com `a b p` e `c d q` (ex.: `2 3 13` e `1 -1 -1`).
 
